@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "925687435741",
+    "firebase_url": "https://fort-ff383-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fort-ff383",
+    "storage_bucket": "fort-ff383.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925687435741:android:3832e53c33c6f621c62634",
+        "android_client_info": {
+          "package_name": "com.example.fort_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925687435741-vl3ao739hqiqjbnr19mdqvinjokkjf15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9iv5tCMkkTPb9g_uXecpzrYQLWWY_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925687435741-k01cpju4314cb5gpp3vpf9o573dj96nm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925687435741-5qrp42lm4dps6i1h6n1o0gf7h4de8jd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fortApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925687435741:android:79e14e61a55dda78c62634",
+        "android_client_info": {
+          "package_name": "com.example.fortapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925687435741-vl3ao739hqiqjbnr19mdqvinjokkjf15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9iv5tCMkkTPb9g_uXecpzrYQLWWY_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925687435741-k01cpju4314cb5gpp3vpf9o573dj96nm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925687435741-5qrp42lm4dps6i1h6n1o0gf7h4de8jd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fortApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
